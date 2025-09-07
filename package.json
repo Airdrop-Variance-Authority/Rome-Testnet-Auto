@@ -1,0 +1,30 @@
+{
+  "name": "rome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "Rome Auto Deployer"
+  ],
+  "author": "fzn0x",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "dotenv": "^17.2.2",
+    "hardhat": "^3.0.4"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.2",
+    "@nomicfoundation/hardhat-ignition-viem": "^3.0.2",
+    "@nomicfoundation/hardhat-keystore": "^3.0.1",
+    "@nomicfoundation/hardhat-network-helpers": "^3.0.0",
+    "@nomicfoundation/hardhat-node-test-runner": "^3.0.2",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^3.0.1",
+    "@nomicfoundation/hardhat-viem": "^3.0.0",
+    "@nomicfoundation/hardhat-viem-assertions": "^3.0.1",
+    "viem": "^2.37.4"
+  }
+}
