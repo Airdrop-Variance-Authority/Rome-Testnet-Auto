@@ -30,6 +30,6 @@ Proof your testnet contribution here: https://docs.google.com/forms/d/e/1FAIpQLS
 
 The Imperia RomeCitizen NFT Whitelist Access (Daily + Questing): https://app.megaphone.xyz/pages/imperia-romecitizens?r=KUskHBwVQ56l (Please use my ref to support me)
 
-Donate: 0xB88F69190d9ef6B563126cade76cF26370bE6B60 (BASE Network)
+Donate: 0x959cdaFB05f85F3d16AA996fEAD86489bD1E4134 (BASE Network)
 
 Bonus Point: Create your own L2 with Rome stack.
